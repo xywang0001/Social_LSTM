@@ -6,6 +6,8 @@ Improvements: 1\ Adjust test.py and train.py to accommodate vanilla lstm-> vlstm
               2\ Adjust optimizer
               3\ reimplementing model.py and vlstm_model.py
               4\ Add  visualization tools
+              
+PLEASE SEE RESULTS FOLDER FOR TESTING RESULTS
 
 
 TRAINING WITH SOCIAL LSTM:
