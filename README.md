@@ -10,7 +10,9 @@ Improvements:
               
 **Results**  
 (from dataset 3)  
+**Vanilla LSTM**
 ![image](https://github.com/xywang0001/Social_LSTM/blob/master/RESULTS/videos/lstm3.gif)  
+**Social LSTM**  
 ![image](https://github.com/xywang0001/Social_LSTM/blob/master/RESULTS/videos/s3.gif)  
 
 **PLEASE SEE RESULTS FOLDER FOR TESTING RESULTS**
