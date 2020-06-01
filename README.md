@@ -9,7 +9,7 @@ Improvements:
 4. Add  visualization tools  
               
 **Results**  
-(from dataset 3)
+(from dataset 3)  
 ![image](https://github.com/xywang0001/Social_LSTM/blob/master/RESULTS/videos/lstm3.gif)  
 ![image](https://github.com/xywang0001/Social_LSTM/blob/master/RESULTS/videos/s3.gif)  
 
