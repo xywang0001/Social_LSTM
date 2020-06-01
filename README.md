@@ -8,7 +8,8 @@ Improvements:
 3. reimplementing model.py and vlstm_model.py  
 4. Add  visualization tools  
               
-**Results**
+**Results**  
+(from dataset 3)
 ![image](https://github.com/xywang0001/Social_LSTM/blob/master/RESULTS/videos/lstm3.gif)  
 ![image](https://github.com/xywang0001/Social_LSTM/blob/master/RESULTS/videos/s3.gif)  
 **PLEASE SEE RESULTS FOLDER FOR TESTING RESULTS**
