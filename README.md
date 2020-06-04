@@ -29,5 +29,5 @@ run VLSTM_tets.py
 **MAKE VIDEO**
 Animation.py
 
-**REPORT**
-[Intro.pdf](https://github.com/xywang0001/Social_LSTM/blob/master/Final_Report_V2.pdf)
+**REPORT**  
+[Project.pdf](https://github.com/xywang0001/Social_LSTM/blob/master/Final_Report_V2.pdf)  
